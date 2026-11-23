@@ -37,3 +37,9 @@ The code generates visualizations for:
 Prerequisites:
 ```bash
 pip install numpy scipy matplotlib
+```
+
+Run:
+```bash
+python "Numerical Solutions of the Radial Schrodinger Equation.py"
+```
